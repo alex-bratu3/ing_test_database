@@ -1,3 +1,3 @@
 {
-    "targets": []
+    "topics": [ {"id": 1, "name": "Sex"}, {"id": 2, "name": "Country"}]
 }
